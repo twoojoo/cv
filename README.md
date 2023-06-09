@@ -23,8 +23,8 @@ Mainly aiming at a **full remote** & **smartworking** position.
 ### 🔭 Interests
 
 - Currently learning **Scala** and **Golang**.
-- Willing to improve my **Data engineering** and **Stream Processing** knowledge.
-- Interested in intermediate **K8s** and **DB admin** knowledge.
+- Willing to improve my **Data engineering** and **System design** knowledge.
+- Interested in intermediate **Kubernetes**.
 
 ### 👨‍🔧 Professional Experience
 

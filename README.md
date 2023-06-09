@@ -35,13 +35,11 @@ Mainly aiming at a **full remote** & **smartworking** position.
 > 2022/01 - now
 
 - **Integrated third-party API**s from external applications into the company platform.
-- Balanced **design principles** with product timelines and partner-specific
-requirements 
-- Migrate the integrations codebase from a monolithic to a **microservices** architecture.
+- Migrated the integrations codebase from a monolithic to a **microservices** architecture.
 - **Troubleshot** and **debugged** software to clean up code and improve efficiency.
-- Developed web **platform back-end** using NodeJS, Fastify and Kafka.
-- Worked in **cloud environment** with **Kubernetes**.
-- Worked in **Agile** Scrum team environment.
+- Developed **internal APIs** using NodeJS, Fastify and Kafka.
+- Worked in a **cloud environment** with **Kubernetes**.
+- Worked in an **Agile** Scrum team environment.
 
 ### 📃 Education
 

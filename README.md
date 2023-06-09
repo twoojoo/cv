@@ -40,7 +40,7 @@ requirements
 - Migrate the integrations codebase from a monolithic to a **microservices** architecture.
 - **Troubleshot** and **debugged** software to clean up code and improve efficiency.
 - Developed web **platform back-end** using NodeJS, Fastify and Kafka.
-- Contributed to mantain and implement **cloud-based back-end solutions with Kubernetes**.
+- Worked in **cloud environment** with **Kubernetes**.
 - Worked in **Agile** Scrum team environment.
 
 ### 📃 Education

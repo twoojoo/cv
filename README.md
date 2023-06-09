@@ -12,17 +12,18 @@ Mainly aiming at a **full remote** & **smartworking** position.
 
 ### 🛠 Skills
 
-|                |              |                     |              |            |       |
-|----------------|--------------|---------------------|--------------|------------|-------|
-| **Javascipt**  | intermediate | **SQL**             | intermediate | **Jira**   | basic |
-| **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**  | basic |
-| **Node.js**    | intermediate | **Kubernetes**      | basic        | **Linux**  | good  |
-| **Git**        | intermediate | **Docker**          | basic        | **Bash**   | good  |
+|                |              |                     |              |             |       |
+|----------------|--------------|---------------------|--------------|-------------|-------|
+| **Javascipt**  | intermediate | **PostgreSQL**      | intermediate | **Jira**    | basic |
+| **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**   | good  |
+| **Node.js**    | intermediate | **Kubernetes**      | basic        | **Linux**   | good  |
+| **Git**        | intermediate | **Docker**          | good         | **Bash**    | good  |
+|                |              | **Cassandra**       | basic        | **Ansible** | basic |
 
 ### 🔭 Interests
 
-- Currently learning **Rust** and **Golang**.
-- Willing to improve my **Microservices** and **Stream Processing** knowledge.
+- Currently learning **Scala** and **Golang**.
+- Willing to improve my **Data engineering** and **Stream Processing** knowledge.
 - Interested in intermediate **K8s** and **DB admin** knowledge.
 
 ### 👨‍🔧 Professional Experience

@@ -19,6 +19,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 | **Node.js**    | intermediate | **Kubernetes**      | basic        | **Linux**   | good  |
 | **Golang**     | basic        | **Docker**          | good         | **Bash**    | good  |
 | **Git**        | good         | **Cassandra**       | basic        | **Ansible** | basic |
+| **Redis**      | good         |                     |              |             |       |
 
 ### 🔭 Interests
 
@@ -37,8 +38,8 @@ Mainly aiming at a **full remote** & **smartworking** position.
 - **Integrated third-party API**s from external applications into the company platform.
 - Migrated the integrations codebase from a monolithic to a **microservices** architecture.
 - **Troubleshot** and **debugged** software to clean up code and improve efficiency.
-- Developed **internal APIs** using NodeJS, Fastify and Kafka.
-- Worked in a **cloud environment** with **Kubernetes**.
+- Back-end development with **NodeJS**, **Fastify** and **Kafka**
+- Worked in a **cloud environment** with **Kubernetes** and **Docker**.
 - Worked in an **Agile** Scrum team environment.
 
 ### 📃 Education

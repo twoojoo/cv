@@ -12,7 +12,7 @@ Mainly aiming at a **full remote** & **smartworking** position.
 
 ### 🛠 Skills
 
-|                |              |                     |              |             |       |
+|  Lnguages      |              |                     |              |             |       |
 |----------------|--------------|---------------------|--------------|-------------|-------|
 | **Javascipt**  | intermediate | **PostgreSQL**      | intermediate | **Jira**    | basic |
 | **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**   | good  |

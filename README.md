@@ -17,8 +17,8 @@ Mainly aiming at a **full remote** & **smartworking** position.
 | **Javascipt**  | intermediate | **PostgreSQL**      | intermediate | **Jira**    | basic |
 | **Typescript** | intermediate | **HTTP / REST API** | intermediate | **Kafka**   | good  |
 | **Node.js**    | intermediate | **Kubernetes**      | basic        | **Linux**   | good  |
-| **Git**        | good         | **Docker**          | good         | **Bash**    | good  |
-|                |              | **Cassandra**       | basic        | **Ansible** | basic |
+| **Golang**     | basic        | **Docker**          | good         | **Bash**    | good  |
+| **Git**        | good         | **Cassandra**       | basic        | **Ansible** | basic |
 
 ### 🔭 Interests
 

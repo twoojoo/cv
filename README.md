@@ -6,7 +6,7 @@ skills.
 
 Focused on **Node.js** ecosystem, but always enthusiastic about new possibilities.
 
-Always looking to **improve my technical knowledge** and to learn new useful technologies.
+Always looking to **improve my technical knowledge** and to learn new technologies.
 
 Mainly aiming at a **full remote** & **smartworking** position.
 
